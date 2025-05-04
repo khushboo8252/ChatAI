@@ -36,7 +36,7 @@ This is a chat application that enables interactive conversations with an AI cha
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chat-ai.git
+git clone https://github.com/khushboo8252/ChatAI.git
 cd chat-ai
 2. Install Dependencies
 bash
